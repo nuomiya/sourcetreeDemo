@@ -2,4 +2,3 @@ apple
 pear
 banana
 lemon
-orange
